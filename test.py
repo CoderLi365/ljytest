@@ -9,3 +9,8 @@ print("ha")
 
 
 print("aaaa")
+print("aaaa")
+print("aaaa")
+print("ha")
+print("ha")
+print("ha")
